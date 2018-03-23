@@ -6,8 +6,10 @@
             打开cmd     
             转到所在根目录    
             执行javac Main.java
-            执行java Main -c 1test.c            
-            执行java Main -c 2test.c
+                
+                执行java Main -c 1test.c            
+                
+                执行java Main -c 2test.c
             执行java Main -c 3test.c
             
             执行java Main -w 4test.c
