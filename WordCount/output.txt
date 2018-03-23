@@ -1,2 +1,2 @@
-文件：N:\WordCount\test.c,
-字符数：30
+文件：N:\WordCount\10test.c,
+行数：4

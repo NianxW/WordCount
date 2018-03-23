@@ -42,26 +42,29 @@ public class Main {
             e1.printStackTrace();
         }
     }
+
     //统计行数
     public static void Linecount() {
         String s = "";
         try {
             bufferedReader.readLine();
             while ((s =bufferedReader.readLine()) != null) {
-                if(s.contains("\n")){
+                //if(s.contains("\n")){
                     Linecount ++;
-                }
+                //}
             }
         }catch (IOException e1) {
             e1.printStackTrace();
         }
     }
+
     //输出到output.txt
     public static void Output() throws IOException {
         Charcount();
         Wordcount();
         Linecount();
     }
+
     public static void main(String args[]) throws IOException {
         String filename = " ";
         if(args.length>=2){
