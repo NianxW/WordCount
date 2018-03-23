@@ -1,0 +1,2 @@
+文件：N:\WordCount\test.c,
+字符数：30
