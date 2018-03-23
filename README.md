@@ -1,10 +1,11 @@
 # WordCount
     
-    只完成了基本功能所以没有能执行的jar和EXE     
-    运行方法：
-            打开cmd 
-            转到所在根目录 
-            执行javac Main.java
+    只完成了基本功能所以没有能执行的jar和EXE         
+    
+    运行方法：    
+            打开cmd     
+            转到所在根目录    
+            执行javac Main.java
             执行java Main -c 1test.c            
             执行java Main -c 2test.c
             执行java Main -c 3test.c
